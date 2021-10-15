@@ -1,5 +1,5 @@
 var i=0;
-    while (i < CHOOSE_A_NUMBER) {
-	    console.log(i);
+    while (i < 100) {
+	    console.log(i + 1);
 	    i++;
 }
